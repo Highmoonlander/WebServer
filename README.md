@@ -31,8 +31,8 @@ This project consists of three web servers created in Java where a client can co
      - Compile and run the `Client.java` file.
      - The server will send a string in bytes to the client, which will be displayed by the client.
 
-    ![Single-Threaded Web Server](MultiThreaded/images/single_threaded_server.png)
-    ![Single-Threaded Web Server](MultiThreaded/images/single_threaded_client.png)
+    ![Single-Threaded Web Server](MultiThreaded/images/multi_threaded_server.png)
+    ![Single-Threaded Web Server](MultiThreaded/images/multi_threaded_client.png)
       
 3. **Thread-Pooled Web Server:**
    - To run the thread-pooled web server:
